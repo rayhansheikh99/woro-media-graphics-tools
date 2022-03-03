@@ -1,1 +1,1 @@
-<h3>Some graphics tools develop</h3>
+<h3>Some graphics tools developed</h3>
