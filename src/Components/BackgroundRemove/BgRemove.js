@@ -12,7 +12,7 @@ const BgRemove = () => {
     }
 
     // fetch api from remove.bg
-    
+
     const removeBg = (e) => {
         e.preventDefault();
         axios({
@@ -42,7 +42,7 @@ const BgRemove = () => {
         <div className="container">
       <div className="row">
         <div className="col-md-8 offset-md-2 text-center">
-          <h3 className="text-danger my-5">
+          <h3 className="text-danger my-4">
             Remove Image Background from image url
           </h3>
           <div className="form-group">
